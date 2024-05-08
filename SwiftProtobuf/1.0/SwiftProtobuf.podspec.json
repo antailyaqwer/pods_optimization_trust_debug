@@ -3,7 +3,7 @@
     "version": "1.0",
     "source": {
         "http": "https://github.com/trustwallet/wallet-core/releases/download/4.0.8/SwiftProtobuf.xcframework.zip",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        "sha256": "060fcf492002eca3216a84aec4e53f1aa53b4e492fe6227aa1a30b2d2191f88e"
     },
     "platforms" : {
         "ios": "12.0"
