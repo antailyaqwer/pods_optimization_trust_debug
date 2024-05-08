@@ -1,0 +1,15 @@
+{
+    "name": "WebRTC-SDKBinary",
+    "version": "114.5735.02",
+    "source": {
+        "http": "https://github.com/antailyaqwer/pods_optimization_trust_debug/releases/download/firebase-messaging-10.0.24/FirebaseMessaging.xcframework.zip",
+        "sha256": "c30668eac8f14a21cfb5612ca4e81b10e2d8d8d5e5231c00874ca118eff9a1c0"
+    },
+    "platforms" : {
+        "ios": "12.0"
+    },
+    "vendored_frameworks": "WebRTC.xcframework",
+    "summary": "Trust Wallet core data structures and algorithms.",
+    "homepage": "https://github.com/trustwallet/wallet-core",
+    "authors": ["Alejandro Isaza","al@isaza.ca"]
+}
