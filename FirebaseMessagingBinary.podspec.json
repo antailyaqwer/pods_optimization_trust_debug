@@ -1,0 +1,15 @@
+{
+    "name": "FirebaseMessagingBinary",
+    "version": "10.0.24",
+    "source": {
+        "http": "https://github.com/antailyaqwer/pods_optimization_trust_debug/releases/download/firebase-messaging-10.0.24/FirebaseMessaging.xcframework.zip",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "platforms" : {
+        "ios": "12.0"
+    },
+    "vendored_frameworks": "FirebaseMessaging.xcframework",
+    "summary": "Trust Wallet core data structures and algorithms.",
+    "homepage": "https://github.com/trustwallet/wallet-core",
+    "authors": ["Alejandro Isaza","al@isaza.ca"]
+}
