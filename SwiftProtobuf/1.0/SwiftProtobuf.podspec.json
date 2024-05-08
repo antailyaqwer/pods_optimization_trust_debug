@@ -1,0 +1,15 @@
+{
+    "name": "SwiftProtobuf",
+    "version": "1.0",
+    "source": {
+        "http": "https://github.com/trustwallet/wallet-core/releases/download/4.0.8/SwiftProtobuf.xcframework.zip",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "platforms" : {
+        "ios": "12.0"
+    },
+    "vendored_frameworks": "SwiftProtobuf.xcframework",
+    "summary": "Trust Wallet core data structures and algorithms.",
+    "homepage": "https://github.com/trustwallet/wallet-core",
+    "authors": ["Alejandro Isaza","al@isaza.ca"]
+}
