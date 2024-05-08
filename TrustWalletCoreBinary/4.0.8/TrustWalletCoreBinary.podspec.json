@@ -1,5 +1,5 @@
 {
-    "name": "TrustWalletCore",
+    "name": "TrustWalletCoreBinary",
     "version": "4.0.8",
     "source": {
         "http": "https://github.com/trustwallet/wallet-core/releases/download/4.0.8/WalletCore.xcframework.zip",
