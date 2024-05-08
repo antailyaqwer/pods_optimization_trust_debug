@@ -3,7 +3,7 @@
     "version": "10.24.0",
     "source": {
         "http": "https://github.com/antailyaqwer/pods_optimization_trust_debug/releases/download/firebase-messaging-10.0.24/FirebaseMessaging.xcframework.zip",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        "sha256": "b3fa1b6edd4c15156f807598fe6badb07f7de86c98ba03fe717205130e27b1c7"
     },
     "platforms" : {
         "ios": "12.0"
