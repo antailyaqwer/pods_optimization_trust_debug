@@ -6,7 +6,7 @@
         "sha256": "b3fa1b6edd4c15156f807598fe6badb07f7de86c98ba03fe717205130e27b1c7"
     },
     "platforms" : {
-        "ios": "12.0"
+        "ios": "15.0"
     },
     "vendored_frameworks": "FirebaseMessaging.xcframework",
     "summary": "Trust Wallet core data structures and algorithms.",

@@ -6,7 +6,7 @@
         "sha256": "c30668eac8f14a21cfb5612ca4e81b10e2d8d8d5e5231c00874ca118eff9a1c0"
     },
     "platforms" : {
-        "ios": "12.0"
+        "ios": "15.0"
     },
     "vendored_frameworks": "WebRTC.xcframework",
     "summary": "Trust Wallet core data structures and algorithms.",

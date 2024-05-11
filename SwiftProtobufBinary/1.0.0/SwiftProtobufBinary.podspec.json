@@ -6,7 +6,7 @@
         "sha256": "060fcf492002eca3216a84aec4e53f1aa53b4e492fe6227aa1a30b2d2191f88e"
     },
     "platforms" : {
-        "ios": "12.0"
+        "ios": "15.0"
     },
     "vendored_frameworks": "SwiftProtobuf.xcframework",
     "summary": "Trust Wallet core data structures and algorithms.",
